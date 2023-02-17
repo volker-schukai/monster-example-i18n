@@ -1,0 +1,1 @@
+# monster-example-i18n
